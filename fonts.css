@@ -1,0 +1,98 @@
+@font-face {
+    font-family: 'Rebrand Txt';
+    src: url('src/fonts/Rebrand_fonts/Latinotype\ -\ Rebrand\ Txt\ Black.otf') format('opentype');
+    font-weight: 900;
+    font-style: normal;
+
+}
+@font-face {
+    font-family: 'Rebrand Txt';
+    src: url('src/fonts/Rebrand_fonts/Latinotype\ -\ Rebrand\ Txt\ Black\ it.otf') format('opentype');
+    font-weight: 900;
+    font-style: italic;
+
+}
+@font-face {
+    font-family: 'Rebrand Txt';
+    src: url('src/fonts/Rebrand_fonts/Latinotype\ -\ Rebrand\ Txt\ Bold.otf') format('opentype');
+    font-weight: 700;
+    font-style: normal;
+
+}
+@font-face {
+    font-family: 'Rebrand Txt';
+    src: url('src/fonts/Rebrand_fonts/Latinotype\ -\ Rebrand\ Txt\ Bold\ it.otf') format('opentype');
+    font-weight: 700;
+    font-style: italic;
+
+}
+@font-face {
+    font-family: 'Rebrand Txt';
+    src: url('src/fonts/Rebrand_fonts/Latinotype\ -\ Rebrand\ Txt\ ExLight.otf') format('opentype');
+    font-weight: 200;
+    font-style: normal;
+
+}
+@font-face {
+    font-family: 'Rebrand Txt';
+    src: url('src/fonts/Rebrand_fonts/Latinotype\ -\ Rebrand\ Txt\ ExLight\ it.otf') format('opentype');
+    font-weight: 200;
+    font-style: italic;
+
+}
+@font-face {
+    font-family: 'Rebrand Txt';
+    src: url('src/fonts/Rebrand_fonts/Latinotype\ -\ Rebrand\ Txt\ Light.otf') format('opentype');
+    font-weight: 300;
+    font-style: normal;
+
+}
+@font-face {
+    font-family: 'Rebrand Txt';
+    src: url('src/fonts/Rebrand_fonts/Latinotype\ -\ Rebrand\ Txt\ Light\ it.otf') format('opentype');
+    font-weight: 300;
+    font-style: italic;
+
+}
+@font-face {
+    font-family: 'Rebrand Txt';
+    src: url('src/fonts/Rebrand_fonts/Latinotype\ -\ Rebrand\ Txt\ Medium.otf') format('opentype');
+    font-weight: 500;
+    font-style: normal;
+
+}
+@font-face {
+    font-family: 'Rebrand Txt';
+    src: url('src/fonts/Rebrand_fonts/Latinotype\ -\ Rebrand\ Txt\ Medium\ it.otf') format('opentype');
+    font-weight: 500;
+    font-style: italic;
+
+}
+@font-face {
+    font-family: 'Rebrand Txt';
+    src: url('src/fonts/Rebrand_fonts/Latinotype\ -\ Rebrand\ Txt\ Regular.otf') format('opentype');
+    font-weight: 400;
+    font-style: normal;
+
+}
+@font-face {
+    font-family: 'Rebrand Txt';
+    src: url('src/fonts/Rebrand_fonts/Latinotype\ -\ Rebrand\ Txt\ Regular\ it.otf') format('opentype');
+    font-weight: 400;
+    font-style: italic;
+
+}
+@font-face {
+    font-family: 'Rebrand Txt';
+    src: url('src/fonts/Rebrand_fonts/Latinotype\ -\ Rebrand\ Txt\ SemiBold.otf') format('opentype');
+    font-weight: 600;
+    font-style: normal;
+
+}
+@font-face {
+    font-family: 'Rebrand Txt';
+    src: url('src/fonts/Rebrand_fonts/Latinotype\ -\ Rebrand\ Txt\ SemiBold\ it.otf') format('opentype');
+    font-weight: 600;
+    font-style: italic;
+
+}
